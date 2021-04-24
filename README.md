@@ -2,7 +2,7 @@
 
 Bonjour monsieur.
 
-Vous trouverez sur ce GitHub ces fichiers:
+Vous trouverez sur ce GitHub ces fichiers dans le dossier BJulien:
 index.php
 inscription.php
 connexion.php
@@ -17,7 +17,7 @@ Une fois ces fichiers téléchargés voici la méthode sur comment lancer tout �
 2. Lancez le programme pour l'installer.
 3. Allez dans votre dossier laragon puis www et supprimez le fichier index.
 4. Télechargez PHPMyAdmin sur https://www.phpmyadmin.net/downloads/
-5. Décompressez le doosier puis copiez le dans laragon/etc/apps et renommer le phpMyAdmin.
+5. Décompressez le dossier puis copiez le dans laragon/etc/apps et renommer le phpMyAdmin.
 6. Déposez dans le dossier www les fichiers installez de GitHub sauf le fichier testuballers.sql
 7. Sur Laragon, appuez sur Start all puis Database et vous arriverez sur la page de phpMyAdmin.
 8. Entrez dans utilsateur root et laissez le mot de passe vide puis cliquez sur Exécuter.
