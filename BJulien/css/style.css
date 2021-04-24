@@ -1,0 +1,44 @@
+header, .connexion
+{
+    background-color: #3b5998;
+    color: white;
+}
+
+body
+{
+    background-color: #FCFDFE ;
+}
+
+.linkheader, .linkbody{
+    font-size: x-small ;
+}
+
+.linkheader{
+    color: white;
+}
+
+.inscription{
+    font-size: 150%;
+    background-color: #237a27;
+    color: white;
+    border-radius: 5px;
+    border-style: ridge;
+}
+
+.conditions{
+    font-size: x-small;
+}
+
+.double{
+    width: 5%;
+}
+
+select, body input[type="text"]{
+    border-radius: 3px;
+    border-color: rgb(211, 211, 211);
+    border-width: thin;
+}
+
+a{
+    text-decoration:none; 
+}
