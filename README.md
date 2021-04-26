@@ -21,7 +21,7 @@ Une fois ces fichiers téléchargés voici la méthode sur comment lancer tout �
 6. Déposez dans le dossier www les fichiers installez de GitHub sauf le fichier testuballers.sql
 7. Sur Laragon, appuez sur Start all puis Database et vous arriverez sur la page de phpMyAdmin.
 8. Entrez dans utilsateur root et laissez le mot de passe vide puis cliquez sur Exécuter.
-9. Une fois sur la page principal cliquez sur Nouvelle bas de données, donnez lui un nom puis appuyez sur Créer.
+9. Une fois sur la page principal cliquez sur Nouvelle bas de données, donnez lui comme nom "testuballers" puis appuyez sur Créer.
 11. Cliquez maintenant sur Importer et choisisez le fichier testuballers.sql.
 10. Cliquez sur Exécuter en bas à gauche et vous voilà avec la base de données du test.
 11. Vous y trouverez un exemple d'utilisateur déjà créé.
